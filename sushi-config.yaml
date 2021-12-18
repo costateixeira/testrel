@@ -7,10 +7,10 @@
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 
 
-id: testrel
-packageId: hl7.fhir.be.mine.testrel
-canonical: https://costateixeira.github.io/testrel/
-url: https://costateixeira.github.io/testrel/ImplementationGuide/testrel
+id: hl7.fhir.be.core
+packageId: hl7.fhir.be.core
+canonical: https://costateixeira.github.io/hl7.fhir.be.core/
+url: https://costateixeira.github.io/hl7.fhir.be.core/ImplementationGuide/hl7.fhir.be.core
 name: ExampleIG
 title: "HL7 FHIR Implementation Guide: Example IG Release 1 - US Realm | STU1"
 description: Example IG exercises many of the fields in a SUSHI configuration.
