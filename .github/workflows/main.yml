@@ -3,8 +3,6 @@ name: Create resources
 # 1. install python 3: apt install python3??
 # 2. install pim modules: pip install pandas csv-diff requests pybase64 configparser xmltodict
 
-
-
 # Controls when the action will run. 
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
@@ -72,7 +70,6 @@ jobs:
         run: npm install -g sushi fsh-sushi
 
 
-
       - name: jekyll install
         run: | 
           sudo apt-get install ruby-full build-essential zlib1g-dev
@@ -86,19 +83,6 @@ jobs:
 
       - name: Execute python script
         run: ls
-
-
-
-
-#      - name: actions/setup-node
-#        uses: actions/setup-node@v2
-#        with:
-#          node-version: "14"
-#      - name: npm install
-#        run: npm install -g sushi fsh-sushi
-
-
-
 
 
 
