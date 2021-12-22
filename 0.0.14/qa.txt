@@ -2,12 +2,12 @@
 =========================================
 
 err = 1, warn = 1, info = 0
-IG Publisher Version: 1.1.89
-Generated Wed Dec 01 15:12:54 UTC 2021. FHIR version 4.0.1 for hl7.fhir.be.mine.testrel#0.0.14 (canonical = https://costateixeira.github.io/testrel)
+IG Publisher Version: 1.1.92
+Generated Wed Dec 22 12:39:26 UTC 2021. FHIR version 4.0.1 for hl7.fhir.be.core#0.0.14 (canonical = https://costateixeira.github.io/hl7.fhir.be.core)
  Build Errors : 0 / 0 / 0
- /home/runner/work/testrel/testrel/fsh-generated/resources/ImplementationGuide-testrel : 1 / 1 / 1
+ /home/runner/work/testrel/testrel/fsh-generated/resources/ImplementationGuide-hl7.fhir.be.core : 1 / 1 / 1
 </table>
 == n/a ==
-== fsh-generated/resources/ImplementationGuide-testrel.json ==
-ERROR: ImplementationGuide/hl7.fhir.be.mine.testrel: ImplementationGuide.definition: ImplementationGuide.definition.resource: minimum required = 1, but only found 0 (from http://hl7.org/fhir/StructureDefinition/ImplementationGuide)
-WARNING: ImplementationGuide.jurisdiction: The resource should declare its jurisdiction to match the package id (hl7.fhir.be.mine.testrel, jurisdiction = urn:iso:std:iso:3166#BE) (for FSH: 'jurisdiction: urn:iso:std:iso:3166#BE "null"')
+== fsh-generated/resources/ImplementationGuide-hl7.fhir.be.core.json ==
+ERROR: ImplementationGuide/hl7.fhir.be.core: ImplementationGuide.definition: ImplementationGuide.definition.resource: minimum required = 1, but only found 0 (from http://hl7.org/fhir/StructureDefinition/ImplementationGuide)
+WARNING: ImplementationGuide.jurisdiction: The resource should declare its jurisdiction to match the package id (hl7.fhir.be.core, jurisdiction = urn:iso:std:iso:3166#BE) (for FSH: 'jurisdiction: urn:iso:std:iso:3166#BE "null"')

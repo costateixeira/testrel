@@ -1,9 +1,9 @@
 {
-  "url": "https://costateixeira.github.io/testrel/ImplementationGuide/testrel",
+  "url": "https://costateixeira.github.io/hl7.fhir.be.core/ImplementationGuide/hl7.fhir.be.core",
   "name": "ExampleIG",
-  "package-id": "hl7.fhir.be.mine.testrel",
+  "package-id": "hl7.fhir.be.core",
   "ig-ver": "0.0.14",
-  "date": "Wed, 01 Dec, 2021 15:12:43 +0000",
+  "date": "Wed, 22 Dec, 2021 12:39:16 +0000",
   "errs": 1,
   "warnings": 1,
   "hints": 0,

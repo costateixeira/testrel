@@ -1,5 +1,5 @@
 {
-  "package": "hl7.fhir.be.mine.testrel",
+  "package": "hl7.fhir.be.core",
   "version": "0.0.14",
   "fhirVersion": "4.0.1",
   "jurisdiction": "001",

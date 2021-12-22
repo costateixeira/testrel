@@ -1,8 +1,8 @@
 [
   {
-    "id": "hl7.fhir.be.mine.testrel",
+    "id": "hl7.fhir.be.core",
     "type": "ImplementationGuide",
-    "url": "https://costateixeira.github.io/testrel/ImplementationGuide/hl7.fhir.be.mine.testrel",
+    "url": "https://costateixeira.github.io/hl7.fhir.be.core/ImplementationGuide/hl7.fhir.be.core",
     "version": "0.0.14",
     "name": "ExampleIG"
   }
