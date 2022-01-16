@@ -3,7 +3,7 @@
   "name": "ExampleIG",
   "package-id": "hl7.fhir.be.core",
   "ig-ver": "0.0.14",
-  "date": "Fri, 14 Jan, 2022 10:48:16 +0000",
+  "date": "Sun, 16 Jan, 2022 21:51:17 +0000",
   "errs": 1,
   "warnings": 1,
   "hints": 0,
